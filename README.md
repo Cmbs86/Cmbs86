@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently web development at DCI. 
+- 🔭 I’m currently studying web development at DCI. 
 
 <!--
 **Cmbs86/Cmbs86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
