@@ -2,18 +2,6 @@
 
 - 👨‍💻 Currently navigating the web development seas at DCI-Digital Career Institute. Aspiring developer – still figuring out this coding puzzle.
 
-💼 Coding Chronicles:
-   
-
-
-🍻 Leisurely Loops and 🎸 Cultural Quests:
-
-   - When I'm not deciphering HTML hieroglyphics, catch me thumping on the bass guitar or attempting to decipher football tactics. Coding bugs might be a puzzle, but trust me, I'd take them over VAR controversies any day.
-   - Diving into gigs, concerts, and friendly football debates – because who doesn't need a break from the coding matrix?
-   - Formerly cooked up storms in the kitchen, now exploring restaurants in search of culinary delights.
-
-
-🤝 Ready to learn, share a laugh, or discuss coding conundrums? Let's connect and bring a down-to-earth sense of humor to the coding journey! Cheers! 🍻
 
 
 ### :fire: My Stats :
