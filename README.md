@@ -13,6 +13,36 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cmbs86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+{
+  "type": "Assertion",
+  "id": "https://api.eu.badgr.io/public/assertions/I5RWDohNSqaywrUzc_iu8g",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "z4mvAUCgVn1zw8f9",
+    "hashed": true,
+    "identity": "sha256$63494e003742325448af75dc07adf586ebcd6aa78ee0740209913cc9aea26afd"
+  },
+  "badge": "https://api.eu.badgr.io/public/badges/8S27egJ7Ssi0YnoUwh1exQ",
+  "issuedOn": "2024-02-16T10:59:37.61Z",
+  "image": {
+    "id": "https://api.eu.badgr.io/public/assertions/I5RWDohNSqaywrUzc_iu8g/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Carlos Manuel Brito des Sousa"
+  }
+}
+
+
 
 
 
