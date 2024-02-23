@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Currently navigating the web development seas at DCI-Digital Career Institute. Aspiring developer – still figuring out this coding puzzle.
-
+- 👨‍💻 Currently navigating the web development seas at DCI-Digital Career Institute. Aspiring developer.
 
 
 ### :fire: My Stats :
