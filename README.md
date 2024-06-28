@@ -38,8 +38,8 @@
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/carlos-brito-de-sousa)
-⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) <!-- Replace with your actual portfolio link -->
+-[LinkedIn](https://www.linkedin.com/in/carlos-brito-de-sousa)
+-⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) <!-- Replace with your actual portfolio link -->
 
 
 
