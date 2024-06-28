@@ -5,6 +5,9 @@
 
 ---
 
+⏩ [Link to my Portfolio](#) https://carlos-sousa.netlify.app/
+
+---
 
 ### :fire: My Stats :
 
