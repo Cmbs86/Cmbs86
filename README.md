@@ -8,7 +8,7 @@
 
 - 👨‍💻 After an 8-year career as a chef, I've discovered my passion for crafting digital experiences as a web developer. I enjoy creating engaging web functionalities and am committed to continuous learning and exploring new technologies.
 
-Outside of work, you'll often find me playing bass guitar, a passion I've pursued through various musical projects. I bring this same creativity and collaborative spirit to my work, transforming ideas into practical web solutions.
+- 🎸 Outside of work, you'll often find me playing bass guitar, a passion I've pursued through various musical projects. I bring this same creativity and collaborative spirit to my work, transforming ideas into practical web solutions.
 
 
 
