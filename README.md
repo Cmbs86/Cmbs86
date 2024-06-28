@@ -5,6 +5,9 @@
 
 ---
 
+## 📫 Contact
+
+- **LinkedIn**: www.linkedin.com/in/carlos-brito-de-sous
 ⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) <!-- Replace with your actual portfolio link -->
 
 
