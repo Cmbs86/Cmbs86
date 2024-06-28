@@ -5,7 +5,7 @@
 
 ---
 
-⏩ [Link to my Portfolio](#) https://carlos-sousa.netlify.app/
+⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) 
 
 ---
 
