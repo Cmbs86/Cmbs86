@@ -5,7 +5,8 @@
 
 ---
 
-⏩ <a href="https://carlos-sousa.netlify.app/" target="_blank">Link to my Portfolio</a> <!-- Replace with your actual portfolio link -->
+⏩ <a href="https://carlos-sousa.netlify.app/" target="_blank" rel="noopener noreferrer">Link to my Portfolio</a> <!-- Replace with your actual portfolio link -->
+
 
 ---
 
