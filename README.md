@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently navigating the web development seas at DCI-Digital Career Institute. Aspiring developer.
+- 🌱 Currently navigating the web development seas at DCI-Digital Career Institute.
 
 ---
 
