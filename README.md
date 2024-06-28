@@ -5,13 +5,6 @@
 
 ---
 
-## 📫 Contact
-
-- **LinkedIn**: www.linkedin.com/in/carlos-brito-de-sousa
-- ⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) <!-- Replace with your actual portfolio link -->
-
-
----
 
 ### :fire: My Stats :
 
@@ -40,6 +33,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/carlos-brito-de-sousa)
+⏩ [Link to my Portfolio](https://carlos-sousa.netlify.app/) <!-- Replace with your actual portfolio link -->
+
 
 
 
