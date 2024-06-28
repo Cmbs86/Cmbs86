@@ -40,7 +40,7 @@
 ## 📫 Contact
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" height="16" /> LinkedIn](https://www.linkedin.com/in/carlos-brito-de-sousa)
-- ⏩ <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">Link to my Portfolio</a> <!-- Replace with your actual portfolio link -->
+- ⏩ <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">Personal Portfolio</a> <!-- Replace with your actual portfolio link -->
 
 
 
