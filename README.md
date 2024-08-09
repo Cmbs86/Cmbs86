@@ -1,12 +1,15 @@
 ### Hi there, I'm Carlos👋
 
+
 - Full Stack Web Developer with expertise in the MERN stack. I have strong skills in JavaScript, frontend frameworks like React and Tailwind CSS, and server-side programming with Node.js and MongoDB. I graduated from a comprehensive one-year full-time Full Stack Web Development program at DCI - Digital Career Insitute.
 
 ---
 
 ### A little about me
 
+
 - 👨‍💻 My background includes a technical course in environmental sciences, where I learned the importance of resourcefulness, creativity, empathy, and sustainability. Coupled with 10 years of hands-on experience as a chef, which taught me to learn by doing, I bring adaptability, critical thinking, time management, attention to detail, teamwork, and problem-solving skills.
+
 
 
 
