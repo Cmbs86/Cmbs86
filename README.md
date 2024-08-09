@@ -1,15 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Carlos👋
 
-- 🌱 Currently navigating the web development seas at DCI-Digital Career Institute.
+- Full Stack Web Developer with expertise in the MERN stack. I have strong skills in JavaScript, frontend frameworks like React and Tailwind CSS, and server-side programming with Node.js and MongoDB. I graduated from a comprehensive one-year full-time Full Stack Web Development program at DCI - Digital Career Insitute.
 
 ---
 
 ### A little about me
 
-- 👨‍💻 After a 10-year career as a chef, I've discovered my passion for crafting digital experiences as a web developer. I enjoy creating engaging web functionalities and am committed to continuous learning and exploring new technologies.
+- 👨‍💻 My background includes a technical course in environmental sciences, where I learned the importance of resourcefulness, creativity, empathy, and sustainability. Coupled with 10 years of hands-on experience as a chef, which taught me to learn by doing, I bring adaptability, critical thinking, time management, attention to detail, teamwork, and problem-solving skills.
 
-- 🎸 Outside of work, you'll often find me playing bass guitar, a passion I've pursued through various musical projects. I bring this same creativity and collaborative spirit to my work, transforming ideas into practical web solutions.
 
+
+- 🎸 Outside of development, I have a passion for travel and learning about new cultures, having lived in three different countries. Music also plays a significant role in my life. I play the bass guitar, have performed in two bands, and am currently working on a new project with friends. I frequently attend music events and see music as an essential part of who I am.
 
 
 ---
